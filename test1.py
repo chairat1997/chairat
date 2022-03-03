@@ -1,4 +1,4 @@
 print("Hello")
-print("Hello")
-print("Hello")
-print("test main")
+print("Name")
+print("Surname")
+print("test")
